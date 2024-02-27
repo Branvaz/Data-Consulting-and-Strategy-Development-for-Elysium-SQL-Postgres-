@@ -29,7 +29,7 @@ SELECT Name, Global_Sales
 FROM VideoGameData
 ORDER BY Global_Sales DESC
 LIMIT 10;
---Games r in the following command
+--Games are in the following command
 
 --OK, I need some information about these games. I wanna know what genre they are and go from there.
 SELECT Name, Genre
@@ -39,7 +39,7 @@ WHERE Name IN ('Wii Sports', 'Mario Kart Wii', 'Super Mario Bros.',
                'Wii Play', 'Duck Hunt', 'New Super Mario Bros Wii');
 
 --Sports, Platform, racing, Role-Playing, Puzzle, Platform, Misc, Shooter, Puzzle,Platform. Looks like Platform is super popular.
---Lets see if that matchs with the rest of the data
+--Lets see if that matches with the rest of the data
 
 SELECT Genre, SUM(Global_Sales) AS Total_Sales
 FROM VideoGameData
