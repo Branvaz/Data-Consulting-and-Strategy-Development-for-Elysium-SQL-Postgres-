@@ -6,7 +6,7 @@ When thinking about how I wanted to present my findings, I used logical reasonin
 
 Lets start with cementing what region our marketing and sales team should prepare to campiagn in.
 Below is a line graph allowing direct comparssion betweens the Global Sales of all regions
-![Sales Comparison by Region](Sales Comparison by Region.png)
+![Sales Comparison by Region](file:///Users/branvaz/Desktop/VGD.Tableau/Sales%20Comparison%20by%20Region.png)
 NA was the clear outlier as I found with my SQl analysis. The rest of the analysis should have focus points on North America.
 
 The best way to decide which genre to make our game is to see how each genre has dont in global sales. 
