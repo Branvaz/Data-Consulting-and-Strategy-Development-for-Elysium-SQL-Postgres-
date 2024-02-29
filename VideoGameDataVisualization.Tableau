@@ -1,0 +1,36 @@
+--Note: Unfortunately Tableau Public does not allow direct connections to databases. It also does not allow stories to have more than one graph attached.
+--Thus, I was unable to use the SQL queries to make the all the appropriate graphs (such as how many action games Nintendo/Electronic Arts have made).
+--Thanks for your understanding. Heres some visulizations I could make from CSV file I cleaned and aggregated on excel:
+
+When thinking about how I wanted to present my findings, I used logical reasoning what exactly a stakeholder in Elysium would want to hear.
+
+Lets start with cementing what region our marketing and sales team should prepare to campiagn in.
+Below is a line graph allowing direct comparssion betweens the Global Sales of all regions
+![Sales Comparison by Region](Sales Comparison by Region.png)
+NA was the clear outlier as I found with my SQl analysis. The rest of the analysis should have focus points on North America.
+
+The best way to decide which genre to make our game is to see how each genre has dont in global sales. 
+![Genre Sales Globally](/Users/branvaz/Desktop/VGD.Tableau/Genre Sales Globally.png)
+This visulization supports my findings that focusing on an action and sports game (or combination) would be most efficent for our developement team
+
+Lets make sure our team is confident in our genre choice
+![Genre Sales North America](/Users/branvaz/Desktop/VGD.Tableau/Genre Sales North America.png)
+Action and Sports performed with the highest sales in North America. The best options for our developement team if we release in NA region.
+
+I was tasked with assisting in developing a buisness strategy. On SQL it was clear Nintendo and Electronic Arts were the best choices to mirror our plans off of.
+![Global Sales Across All Publishers](/Users/branvaz/Desktop/VGD.Tableau/Global Sales Across All Publishers.png)
+Nintendo and Electronic Arts both had staggering global lifetime sales. With Electronic gaming making over 50% of thier games action and sport (SQL), they are a great fit.
+
+Lets make sure the team feels super comfortable spending resources disecting Nintendos and Electronic Arts marketing and sales campaigns
+![Publisher Sales In North America](/Users/branvaz/Desktop/VGD.Tableau/Publisher Sales In North America.png)
+Both companies did have amazing sales in the NA region.
+
+Lastly, lets make the visal supporting why our developement team should make the deliverable for console
+![Global Platform Sales](/Users/branvaz/Desktop/VGD.Tableau/Global Platform Sales.png)
+The top 4 selling platform lifetime sales are consoles.
+
+These graphs are enough to support my data analysis. My next step would be to put these graphs into a powerpoint, and get ready to present to the head 
+of our various teams at Elysium.
+
+--If you made it this far, I wanted to give you a huge thanks! I had a lot of fun making this project and hope my skills here fit what your looking for.
+--Cheers!
