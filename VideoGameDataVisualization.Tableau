@@ -6,27 +6,27 @@ When thinking about how I wanted to present my findings, I used logical reasonin
 
 Lets start with cementing what region our marketing and sales team should prepare to campiagn in.
 Below is a line graph allowing direct comparssion betweens the Global Sales of all regions
-This graph is Sales by Region png. in this repository
+This graph is Sales Comparison by Region png. in this repository
 NA was the clear outlier as I found with my SQl analysis. The rest of the analysis should have focus points on North America.
 
 The best way to decide which genre to make our game is to see how each genre has dont in global sales. 
-![Genre Sales Globally](/Users/branvaz/Desktop/VGD.Tableau/Genre Sales Globally.png)
+This Graph is Genre Sales Globally.png in this repository
 This visulization supports my findings that focusing on an action and sports game (or combination) would be most efficent for our developement team
 
 Lets make sure our team is confident in our genre choice
-![Genre Sales North America](/Users/branvaz/Desktop/VGD.Tableau/Genre Sales North America.png)
+This graph is Genre Sales North America.png
 Action and Sports performed with the highest sales in North America. The best options for our developement team if we release in NA region.
 
 I was tasked with assisting in developing a buisness strategy. On SQL it was clear Nintendo and Electronic Arts were the best choices to mirror our plans off of.
-![Global Sales Across All Publishers](/Users/branvaz/Desktop/VGD.Tableau/Global Sales Across All Publishers.png)
+This graph is Global Sales Across All Publishers.png
 Nintendo and Electronic Arts both had staggering global lifetime sales. With Electronic gaming making over 50% of thier games action and sport (SQL), they are a great fit.
 
 Lets make sure the team feels super comfortable spending resources disecting Nintendos and Electronic Arts marketing and sales campaigns
-![Publisher Sales In North America](/Users/branvaz/Desktop/VGD.Tableau/Publisher Sales In North America.png)
+This graph is Publisher Sales In North America.png
 Both companies did have amazing sales in the NA region.
 
 Lastly, lets make the visal supporting why our developement team should make the deliverable for console
-![Global Platform Sales](/Users/branvaz/Desktop/VGD.Tableau/Global Platform Sales.png)
+This graph is Global Platform Sales.png
 The top 4 selling platform lifetime sales are consoles.
 
 These graphs are enough to support my data analysis. My next step would be to put these graphs into a powerpoint, and get ready to present to the head 
