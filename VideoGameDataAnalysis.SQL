@@ -16,7 +16,7 @@ ALTER COLUMN Year TYPE VARCHAR(10);
 ALTER TABLE VideoGameData ALTER COLUMN Name TYPE VARCHAR(255);
 SELECT * FROM VideoGameData;
 
---Let's start by examining the trend of global sales over time.
+--I want to start by examining the trend of global sales over time.
 SELECT Year, SUM(Global_Sales) AS Total_Sales
 FROM VideoGameData
 GROUP BY Year
